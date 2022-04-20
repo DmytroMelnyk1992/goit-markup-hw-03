@@ -248,6 +248,8 @@ h2 {
 
 .our-team-section {
   background: var(--background-color-2);
+  padding-top: 94px;
+  padding-bottom: 94px;
 }
 
 .team-member-container {
@@ -263,13 +265,11 @@ h2 {
   margin-left: 30px;
 }
 .our-team-title {
-  padding-top: 94px;
   margin-bottom: 50px;
 }
 
 .our-team-member-list {
   display: flex;
-  padding-bottom: 94px;
 }
 
 .team-member {
@@ -414,7 +414,6 @@ h2 {
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
-  margin-left: 24px;
 }
 
 .portfolio-item-description {
@@ -425,7 +424,6 @@ h2 {
   line-height: 1.8;
   letter-spacing: 0.03em;
   padding-top: 4px;
-  margin-left: 24px;
 }
 .portfolio-item-container {
   width: calc(100% / 3 -30px);
@@ -437,6 +435,5 @@ h2 {
 }
 
 .portfolio-card {
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding: 20px 24px;
 }
