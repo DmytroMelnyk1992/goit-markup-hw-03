@@ -231,13 +231,13 @@ h2 {
 
 .activity-description {
   display: flex;
+  padding-bottom: 94px;
 }
 
 .activity-description-item {
   align-self: center;
   flex-basis: calc((100%-90px) / 3);
   min-width: 370px;
-  padding-bottom: 94px;
 }
 
 .activity-description-item:not(:first-child) {
